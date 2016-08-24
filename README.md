@@ -1,2 +1,2 @@
-# DoingBayesian
+# R code
 Doing Bayesian data analysis: A tutorial with R and BUGS
